@@ -1,0 +1,33 @@
+{
+  "name": "Brasil Soccer",
+  "short_name": "Brasil Soccer",
+  "id": "app.thiago.soccebr",
+  "description": "futebol",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "icobr45.jpg",
+        "sizes": "36x36"
+      },{
+        "src": "icobr45.jpg",
+        "sizes": "48x48"
+      },{
+        "src": "icobr45.jpg",
+        "sizes": "72x72"
+      },{
+        "src": "icobr45.jpg",
+        "sizes": "96x96"
+      },{
+        "src": "icobr45.jpg",
+        "sizes": "144x144"
+      },{
+        "src": "icobr45.jpg",
+        "sizes": "192x192"
+      },{
+        "src": "icobr45.jpg",
+        "sizes": "512x512"
+      }]
+}
